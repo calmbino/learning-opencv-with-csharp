@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,  // 파일 저장 시 자동 정렬
+    "editor.defaultFormatter": "ms-dotnettools.csharp", // 기본 포매터 설정
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.formatOnSave": true
+    },
+
+}
